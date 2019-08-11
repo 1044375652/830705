@@ -197,7 +197,7 @@ var test = new Test();
 
 ES6继承并没什么改变，只不过提供了一些语法糖
 
-```
+```javascript
 (function () {
 	class Body {
 		constructor () {
